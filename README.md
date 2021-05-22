@@ -13,9 +13,7 @@ Monster Truck Madness is a VR off-road driving game
 
 Take control of 3 monster trucks as you collect gold trophies to rack up your score. Watch out though as your truck takes up fuel so be sure to collect some Jerry cans on the way.
 
-
-![screenshot](https://bitbucket.org/liviusgrosu/monster-truck-madness-vr/raw/master/Assets/Resources/References/Screenshot%201.PNG)
-
+https://user-images.githubusercontent.com/1690449/119239117-5b96fe80-bb1d-11eb-8e60-7dcea19755da.mp4
 
 ## Research:
 
@@ -31,7 +29,6 @@ One of the main issues in VR is the inability to sense feedback from input. This
 
     Of course there is a pitfall to the just increasing your error deviation and that is that you can't utilized complex controls. What that means is that anything the user needs to perform that is unorthodox to their natural movement becomes a serious challenge. To combat this issue, we need to make controls simple such as creating a simple lever that only goes back and forth
 
-
 ## Controls:
 
 | Actions            | Key                                                               |
@@ -39,5 +36,7 @@ One of the main issues in VR is the inability to sense feedback from input. This
 | Trigger Button     | Interact with virtual controls                                    |
 | Thumb Rest         | Activate selection laser                                          |
 | Y Button           | Respawn Car                                                       |
+
+![screenshot](https://bitbucket.org/liviusgrosu/monster-truck-madness-vr/raw/master/Assets/Resources/References/Screenshot%201.PNG)
 
 
